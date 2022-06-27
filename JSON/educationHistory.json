@@ -1,0 +1,20 @@
+[
+    {
+        "nameOfSchool": "Aranäsgymnasiet",
+        "subject": "Social sciences program",
+        "startOfEducation": 2013,
+        "endOfEducation": 2016
+    },
+    {
+        "nameOfSchool": "Hermods AB",
+        "subject": "Programming 1, English 7 and Psychology 1",
+        "startOfEducation": 2018,
+        "endOfEducation": 2021
+    },
+    {
+        "nameOfSchool": "Campus Varberg",
+        "subject": ".NET developer",
+        "startOfEducation": 2021,
+        "endOfEducation": 2023
+    }
+]
